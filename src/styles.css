@@ -3,7 +3,7 @@
 @font-face {
   font-family: "Norse Bold";
   font-display: swap;
-  src: url(/assets/fonts/Norse-Bold.otf);
+  src: url(assets/fonts/Norse-Bold.otf);
   unicode-range: U+0025-00FF;
 }
 
@@ -28,7 +28,7 @@ body {
   flex-direction: column;
   justify-content: end;
   width: 25%;
-  background-image: url(/assets/images/halie-west-25xggax4bSA-unsplash.jpg);
+  background-image: url(assets/images/halie-west-25xggax4bSA-unsplash.jpg);
   background-position: center;
   background-size: cover;
 }
